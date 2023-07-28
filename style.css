@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lumanosimo', cursive;
+    color: white;
+    text-transform: uppercase;
+}
+
+h2{
+    color: white;
+    font-family: 'Lumanosimo', cursive;
+}
+
+p{
+color: white;
+}
+
+img{
+    border: 10px solid white;
+    margin-top: 10px;
+    margin-left: 50px;
+}
